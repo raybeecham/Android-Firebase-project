@@ -9,3 +9,9 @@ This is a Rental Car app for Android using Firebase and AJAX restful API's
 ---
 
 ![assignment-info](https://github.com/raybeecham/Android-Firebase-project/blob/master/HW-4-Resources/HW4Image.png)
+
+![assignment-info](https://github.com/raybeecham/Android-Firebase-project/blob/master/HW-4-Resources/CarAppIcon.png) 
+![assignment-info](https://github.com/raybeecham/Android-Firebase-project/blob/master/HW-4-Resources/HomeActivity.png)
+![assignment-info](https://github.com/raybeecham/Android-Firebase-project/blob/master/HW-4-Resources/ListActivity.png)
+![assignment-info](https://github.com/raybeecham/Android-Firebase-project/blob/master/HW-4-Resources/CarInfoActivity.png)
+![assignment-info](https://github.com/raybeecham/Android-Firebase-project/blob/master/HW-4-Resources/CostUpdateActivity.png)
