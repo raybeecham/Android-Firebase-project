@@ -8,4 +8,4 @@ This is a Rental Car app for Android using Firebase and AJAX restful API's
 
 ---
 
-![assignment-info](https://github.com/raybeecham/Android-Firebase-project/blob/master/HW-4-Resources/HW4Image.png)
+![assignment-info](https://github.com/raybeecham/Android-Firebase-project/blob/master/HW 4 Resources/HW4Image.png)
